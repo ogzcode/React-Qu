@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which Apollo mission was the first one to land on the Moon?",
+        "correct_answer": "Apollo 11",
+        "incorrect_answers": [
+          "Apollo 10",
+          "Apollo 9",
+          "Apollo 13"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the film &quot;Interstellar&quot;, how long did they spend on Miller&#039;s planet?",
+        "correct_answer": "23 years, 4 months, and 8 days",
+        "incorrect_answers": [
+          "15 years, 2 months, and 15 days",
+          "10 months and 6 days",
+          "26 years, 4 months, and 10 days"
+        ]
+      },
+      {
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Albrecht D&uuml;rer&#039;s birthplace and place of death were in...",
+        "correct_answer": "N&uuml;rnberg",
+        "incorrect_answers": [
+          "Augsburg",
+          "Bamberg",
+          "Berlin"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What does &quot;LCD&quot; stand for?",
+        "correct_answer": "Liquid Crystal Display",
+        "incorrect_answers": [
+          "Language Control Design",
+          "Last Common Difference",
+          "Long Continuous Design"
+        ]
+      },
+      {
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which artist&#039;s style was to use small different colored dots to create a picture?",
+        "correct_answer": "Georges Seurat",
+        "incorrect_answers": [
+          "Paul C&eacute;zanne",
+          "Vincent Van Gogh",
+          "Henri Rousseau"
+        ]
+      },
+      {
+        "category": "Entertainment: Cartoon & Animations",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which Hanna-Barbera cartoon character travelled with a canine companion named Beegle Beagle?",
+        "correct_answer": "Grape Ape",
+        "incorrect_answers": [
+          "Boss Gator",
+          "Wally Gator",
+          "Yogi Bear"
+        ]
+      },
+      {
+        "category": "Entertainment: Board Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the sum of all the tiles in a standard box of Scrabble?",
+        "correct_answer": "187",
+        "incorrect_answers": [
+          "207",
+          "197",
+          "177"
+        ]
+      },
+      {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which country did Kabaddi, a contact sport involving tackling, originate from?",
+        "correct_answer": "India",
+        "incorrect_answers": [
+          "Australia",
+          "Turkey",
+          "Cambodia"
+        ]
+      },
+      {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which television show has Dan Gheesling been on?",
+        "correct_answer": "Big Brother",
+        "incorrect_answers": [
+          "Jeopardy",
+          "Survivor",
+          "The Bachelor"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Where are Terror Fiends more commonly found in the Nintendo game Miitopia?",
+        "correct_answer": "New Lumos",
+        "incorrect_answers": [
+          "Peculia",
+          "The Sky Scraper",
+          "Otherworld"
+        ]
+      }
+    ]
+  }
