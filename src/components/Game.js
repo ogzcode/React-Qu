@@ -1,10 +1,9 @@
 import { useState, useEffect } from "react";
-import data from "../data.json";
 import QuestionPanel from "./QuestionPanel";
 import "./Game.css";
 
-function Game() {
-    const [dataList, setDataList] = useState(data.results);
+function Game(props) {
+    const [dataList, setDataList] = useState(props.data);
     const [questionIndex, setQuestionIndex] = useState(0);
     const [next, setNext] = useState(false);
     const [total, setTotal] = useState(0);
@@ -27,10 +26,17 @@ function Game() {
     };
 
     const handleAgain = () => {
-        setQuestionIndex(0);
-        setNext(false);
-        setTotal(0);
+        props.onClick();
     };
+
+    useEffect(() => {
+        if (dataList !== props.data){
+            setDataList(props.data);
+            setQuestionIndex(0);
+            setNext(false);
+            setTotal(0);
+        }
+    });
 
     return (
         <div className='game__container'>
